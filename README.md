@@ -4,4 +4,4 @@ In this project, l deploy web servers for a highly available web app using Cloud
 
 # DNS Name
 
-Udagr-WebAp-1JKIVQE31X85H-409507830.us-east-1.elb.amazonaws.com
+[Endpoint](Udagr-WebAp-1JKIVQE31X85H-409507830.us-east-1.elb.amazonaws.com)
